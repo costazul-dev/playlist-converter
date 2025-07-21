@@ -1,0 +1,4 @@
+# requirements.txt
+spotipy
+google-api-python-client
+python-dotenv
